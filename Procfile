@@ -1,1 +1,1 @@
-web: vendor/bin/heroku-php-apache2 & node index.js wiat -n
+web: vendor/bin/heroku-php-apache2 & node index.js wait -n
